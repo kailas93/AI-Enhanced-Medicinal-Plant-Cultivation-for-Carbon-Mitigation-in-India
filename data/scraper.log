@@ -1,0 +1,100 @@
+2025-11-25 20:23:16,322 - INFO - SUCCESS: Abelmoschus esculentus (L.) Moench
+2025-11-25 20:23:18,857 - INFO - SUCCESS: Abelmoschus ficulneus (L.) Wight & Arn.
+2025-11-25 20:23:21,990 - INFO - SUCCESS: Abelmoschus manihot (L.) Medik.
+2025-11-25 20:23:24,543 - INFO - SUCCESS: Abelmoschus moschatus Medik.
+2025-11-25 20:23:27,054 - INFO - SUCCESS: Abies spectabilis (D. Don) Spach.
+2025-11-25 20:23:38,288 - WARNING - Direct URL error for Abroma agusta Lf: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Abroma_agusta_Lf (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1d415160>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:23:43,032 - WARNING - Attempt 1 failed for Abroma agusta (L.) L.f.
+2025-11-25 20:23:50,344 - WARNING - Attempt 2 failed for Abroma agusta (L.) L.f.
+2025-11-25 20:23:52,903 - WARNING - Attempt 3 failed for Abroma agusta (L.) L.f.
+2025-11-25 20:23:57,852 - INFO - SUCCESS: Abrus precatorius L.
+2025-11-25 20:24:04,796 - INFO - SUCCESS: Abutilon hirtum (Lam.) Sweet
+2025-11-25 20:24:07,464 - INFO - SUCCESS: Abutilon indicum (L.) Sweet
+2025-11-25 20:24:10,106 - WARNING - Attempt 1 failed for Abutilon pannosum (Forst.) Schlect.
+2025-11-25 20:24:12,657 - WARNING - Attempt 2 failed for Abutilon pannosum (Forst.) Schlect.
+2025-11-25 20:24:15,226 - WARNING - Attempt 3 failed for Abutilon pannosum (Forst.) Schlect.
+2025-11-25 20:24:28,447 - WARNING - Direct URL error for Abutilon theophrastii Medik: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Abutilon_theophrastii_Medik (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1d5cf2c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:24:29,052 - WARNING - Attempt 1 failed for Abutilon theophrastii Medik.
+2025-11-25 20:24:41,066 - WARNING - Direct URL error for Abutilon theophrastii Medik: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Abutilon_theophrastii_Medik (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1d5c4920>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:24:51,079 - WARNING - API error for Abutilon theophrastii Medik: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&list=search&srsearch=Abutilon+theophrastii+Medik&format=json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1d5c5490>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:24:51,079 - WARNING - Attempt 2 failed for Abutilon theophrastii Medik.
+2025-11-25 20:25:03,086 - WARNING - Direct URL error for Abutilon theophrastii Medik: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Abutilon_theophrastii_Medik (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1d5c5dc0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:25:03,558 - WARNING - Attempt 3 failed for Abutilon theophrastii Medik.
+2025-11-25 20:25:08,072 - INFO - SUCCESS: Acacia catechu (L.f.) Willd.
+2025-11-25 20:25:10,896 - INFO - SUCCESS: Acacia farnesiana (L.) Willd.
+2025-11-25 20:25:17,593 - INFO - SUCCESS: Acacia jacquemontii Benth.
+2025-11-25 20:25:24,368 - INFO - SUCCESS: Acacia leucophloea (Roxb.) Willd.
+2025-11-25 20:25:35,607 - WARNING - Direct URL error for Acacia modesta Wall: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Acacia_modesta_Wall (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1cdbd370>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:25:40,532 - INFO - SUCCESS: Acacia modesta Wall.
+2025-11-25 20:25:42,996 - INFO - SUCCESS: Acacia nilotica (L.) Willd. ex Delile
+2025-11-25 20:25:49,830 - INFO - SUCCESS: Acacia pennata (L.) Willd.
+2025-11-25 20:25:52,762 - INFO - SUCCESS: Acacia rugata (Lam.) Merr.
+2025-11-25 20:25:55,917 - INFO - SUCCESS: Acacia senegal (L.) Willd.
+2025-11-25 20:25:58,643 - INFO - SUCCESS: Acacia torta (Roxb.) Craib
+2025-11-25 20:26:02,634 - INFO - SUCCESS: Acalypha fruticosa Forsk.
+2025-11-25 20:26:05,282 - INFO - SUCCESS: Acalypha indica L.
+2025-11-25 20:26:11,650 - WARNING - Attempt 1 failed for Acalypha racemosa Wall. ex Bailley
+2025-11-25 20:26:14,173 - WARNING - Attempt 2 failed for Acalypha racemosa Wall. ex Bailley
+2025-11-25 20:26:16,740 - WARNING - Attempt 3 failed for Acalypha racemosa Wall. ex Bailley
+2025-11-25 20:26:29,954 - WARNING - Direct URL error for Acampe papillosa Lindl: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Acampe_papillosa_Lindl (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1cb08fb0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:26:39,967 - WARNING - API error for Acampe papillosa Lindl: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&list=search&srsearch=Acampe+papillosa+Lindl&format=json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1cb09ee0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:26:39,968 - WARNING - Attempt 1 failed for Acampe papillosa (Lindl.) Lindl.
+2025-11-25 20:26:51,981 - WARNING - Direct URL error for Acampe papillosa Lindl: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Acampe_papillosa_Lindl (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1cb08ef0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:26:52,566 - INFO - SUCCESS: Acampe papillosa (Lindl.) Lindl.
+2025-11-25 20:26:54,980 - WARNING - Attempt 1 failed for Acanthus illicifolius L.
+2025-11-25 20:26:57,832 - WARNING - Attempt 2 failed for Acanthus illicifolius L.
+2025-11-25 20:27:04,625 - WARNING - Attempt 3 failed for Acanthus illicifolius L.
+2025-11-25 20:27:13,442 - INFO - SUCCESS: Achillea millefolium L.
+2025-11-25 20:27:24,740 - WARNING - Direct URL error for Achyranthes aspera L: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Achyranthes_aspera_L (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1c3d54f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:27:34,767 - WARNING - API error for Achyranthes aspera L: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&list=search&srsearch=Achyranthes+aspera+L&format=json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1c3d5700>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:27:34,767 - WARNING - Attempt 1 failed for Achyranthes aspera L.
+2025-11-25 20:27:38,171 - INFO - SUCCESS: Achyranthes aspera L.
+2025-11-25 20:27:40,701 - INFO - SUCCESS: Achyranthes bidentata Blume
+2025-11-25 20:27:47,288 - WARNING - Attempt 1 failed for Aconitum balfourii Stapf
+2025-11-25 20:27:49,800 - WARNING - Attempt 2 failed for Aconitum balfourii Stapf
+2025-11-25 20:27:52,346 - WARNING - Attempt 3 failed for Aconitum balfourii Stapf
+2025-11-25 20:27:57,431 - INFO - SUCCESS: Aconitum bisma (Buch. -Ham.) Rapaics
+2025-11-25 20:28:01,718 - INFO - SUCCESS: Aconitum chasmanthum Holmes ex Stapf
+2025-11-25 20:28:08,249 - WARNING - Attempt 1 failed for Aconitum falconeri Stapf
+2025-11-25 20:28:20,261 - WARNING - Direct URL error for Aconitum falconeri Stapf: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Aconitum_falconeri_Stapf (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1d5562d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:28:30,275 - WARNING - API error for Aconitum falconeri Stapf: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&list=search&srsearch=Aconitum+falconeri+Stapf&format=json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1d556f60>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:28:30,275 - WARNING - Attempt 2 failed for Aconitum falconeri Stapf
+2025-11-25 20:28:32,873 - WARNING - Attempt 3 failed for Aconitum falconeri Stapf
+2025-11-25 20:28:37,384 - INFO - SUCCESS: Aconitum heterophyllum Wall. ex Royle
+2025-11-25 20:28:39,770 - WARNING - Attempt 1 failed for Aconitum laciniatum (Bruhl) Stapf
+2025-11-25 20:28:42,514 - WARNING - Attempt 2 failed for Aconitum laciniatum (Bruhl) Stapf
+2025-11-25 20:28:45,044 - WARNING - Attempt 3 failed for Aconitum laciniatum (Bruhl) Stapf
+2025-11-25 20:28:54,062 - INFO - SUCCESS: Aconitum novoluridum Munz
+2025-11-25 20:28:56,641 - WARNING - Attempt 1 failed for Aconitum spicatum (Bruhl) Stapf
+2025-11-25 20:29:03,398 - WARNING - Attempt 2 failed for Aconitum spicatum (Bruhl) Stapf
+2025-11-25 20:29:15,413 - WARNING - Direct URL error for Aconitum spicatum Stapf: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Aconitum_spicatum_Stapf (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1ca97830>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:29:20,095 - WARNING - Attempt 3 failed for Aconitum spicatum (Bruhl) Stapf
+2025-11-25 20:29:24,408 - WARNING - Attempt 1 failed for Aconitum violaceum Jacq. Ex Stapf
+2025-11-25 20:29:31,061 - WARNING - Attempt 2 failed for Aconitum violaceum Jacq. Ex Stapf
+2025-11-25 20:29:33,642 - WARNING - Attempt 3 failed for Aconitum violaceum Jacq. Ex Stapf
+2025-11-25 20:29:38,342 - INFO - SUCCESS: Acorus calamus L.
+2025-11-25 20:29:41,829 - INFO - SUCCESS: Acronychia pedunculata (L.) Miq.
+2025-11-25 20:29:49,402 - INFO - SUCCESS: Actaea spicata L.
+2025-11-25 20:29:56,972 - INFO - SUCCESS: Actiniopteris radiata(Swartz) Link
+2025-11-25 20:30:08,208 - WARNING - Direct URL error for Actinodaphne hookeri Meissn: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Actinodaphne_hookeri_Meissn (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1dc845c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:30:18,221 - WARNING - API error for Actinodaphne hookeri Meissn: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&list=search&srsearch=Actinodaphne+hookeri+Meissn&format=json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1dc84860>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:30:18,222 - WARNING - Attempt 1 failed for Actinodaphne hookeri Meissn.
+2025-11-25 20:30:30,238 - WARNING - Direct URL error for Actinodaphne hookeri Meissn: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Actinodaphne_hookeri_Meissn (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1dc23ec0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:30:30,774 - WARNING - Attempt 2 failed for Actinodaphne hookeri Meissn.
+2025-11-25 20:30:34,365 - WARNING - Attempt 3 failed for Actinodaphne hookeri Meissn.
+2025-11-25 20:30:47,580 - WARNING - Direct URL error for Adansonia digitata L: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Adansonia_digitata_L (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1dc845f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:30:52,425 - INFO - SUCCESS: Adansonia digitata L.
+2025-11-25 20:30:56,034 - INFO - SUCCESS: Adenanthera pavonia L.
+2025-11-25 20:31:07,397 - WARNING - Direct URL error for Adenia wightiana Engl: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Adenia_wightiana_Engl (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1ce161b0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:31:08,713 - INFO - SUCCESS: Adenia wightiana (Wall. ex Wight & Arn.) Engl.
+2025-11-25 20:31:11,895 - INFO - SUCCESS: Adenostemma lavenia (L.) Kuntze
+2025-11-25 20:31:14,644 - INFO - SUCCESS: Adiantum capillus-veneris L.
+2025-11-25 20:31:25,890 - WARNING - Direct URL error for Adiantum caudatum L: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Adiantum_caudatum_L (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c1d8210d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 20:31:26,894 - INFO - SUCCESS: Adiantum caudatum L.
+2025-11-25 20:31:29,313 - INFO - SUCCESS: Adiantum philippense L.
+2025-11-25 21:37:43,631 - WARNING - Direct fetch failed for Abelmoschus ficulneus Wight Arn: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Abelmoschus_ficulneus_Wight_Arn (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e088e0d9ee0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 21:38:26,480 - WARNING - Direct fetch failed for Abutilon hirtum Sweet: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Abutilon_hirtum_Sweet (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e088dc08e30>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 21:39:28,212 - WARNING - Direct fetch failed for Acacia modesta Wall: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Acacia_modesta_Wall (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e088d5333b0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 21:41:21,583 - WARNING - Direct fetch failed for Aconitum bisma Rapaics: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Aconitum_bisma_Rapaics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e088e1d66f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 21:41:49,381 - WARNING - Direct fetch failed for Aconitum novoluridum Munz: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Aconitum_novoluridum_Munz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e088d797b30>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-11-25 21:43:07,416 - WARNING - Direct fetch failed for Adiantum capillus-veneris L: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Adiantum_capillus-veneris_L (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e088d815ee0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
