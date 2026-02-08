@@ -126,7 +126,7 @@ The system uses a **RAG-based approach** to ensure factual correctness and avoid
 
 ---
 
-**File Structure**
+**File Structure and Installation Instructions**
 
 ```text
 .
