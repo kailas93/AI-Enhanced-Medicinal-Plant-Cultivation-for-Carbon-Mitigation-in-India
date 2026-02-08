@@ -50,21 +50,18 @@ To develop an **AI-powered medicinal plant knowledge and recommendation system**
 
 ---
 
-## System Architecture
+## System Architecture Flow
 
-User
-↓
-Streamlit Application (app.py)
-↓
-Curated Medicinal Plant Datasets
-↓
-Machine Learning Models
-↓
-RAG (Retriever + Context Builder)
-↓
-Response Generator + Safety Layer
-↓
-Final Output
+1. **User**
+2. **Streamlit Application (`app.py`)**
+3. **Curated Medicinal Plant Datasets**
+4. **Machine Learning Models**
+5. **RAG Pipeline**
+   - Retriever
+   - Context Builder
+6. **Response Generator**
+   - Safety Layer
+7. **Final Output**
 
 
 ---
@@ -130,27 +127,29 @@ The system uses a **RAG-based approach** to ensure factual correctness and avoid
 ---
 
 ## File Structure
+
+```text
+.
 ├── app.py
-├── data
-│ ├── bsi_medicinal_plants.json
-│ ├── bsi_medicinal_plants_with_wikipedia.json
-│ ├── nitm_plants_all.jsonl
-│ ├── plant_ai_dataset_v2_native_state.json
-│ ├── plant_instruction_dataset_v2.jsonl
-│ └── model files and scripts
-└── rag
-├── retriever.py
-├── generator.py
-├── prompt_builder.py
-└── safety.py
+├── data/
+│   ├── bsi_medicinal_plants.json
+│   ├── bsi_medicinal_plants_with_wikipedia.json
+│   ├── nitm_plants_all.jsonl
+│   ├── plant_ai_dataset_v2_native_state.json
+│   ├── plant_instruction_dataset_v2.jsonl
+│   └── model_files_and_scripts/
+└── rag/
+    ├── retriever.py
+    ├── generator.py
+    ├── prompt_builder.py
+    └── safety.py
 
 
 ---
 
 ## Installation Instructions
 
-### Create Virtual Environment
-```bash
+Create Virtual Environment
 python3 -m venv venv
 source venv/bin/activate
 
